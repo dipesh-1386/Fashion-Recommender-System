@@ -14,6 +14,4 @@ The implementation of ResNet-50 ensures superior image recognition capabilities,
 model to discern subtle nuances in style, color, and design. TensorFlow's scalability and efficiency 
 enable real-time processing, making the recommender system suitable for dynamic fashion trends 
 and user interactions. The proposed system not only enhances user satisfaction but also contributes 
-to a more engaging and tailored fashion discovery experience. This project represents a 
-groundbreaking approach to fashion recommendation, leveraging state-of-the-art technologies to 
-create a cutting-edge solution at the intersection of deep learning and fashion
+to a more engaging and tailored fashion discovery experience. 
